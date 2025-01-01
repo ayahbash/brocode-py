@@ -1,7 +1,55 @@
- # brocode's python full course notes 🐍♥️
-> these are my notes from BroCode's python course on youtube, formatted in markdown for readability. i'm creating these notes to refer back to them in the future, and they might also benefit others following the course. good luck to everyone!
+ # brocode's python full course notes 🐍
  
- ## 🔗 [course link](https://youtu.be/XKHEtdqhLK8?si=IqUga8mt5dGJ7x4i) 
+ ## 🔗 [Course Link](https://youtu.be/XKHEtdqhLK8?si=IqUga8mt5dGJ7x4i)
+
+
+## Table of Contents
+
+<details>
+<summary>Table of Contents</summary>
+
+1. [Print Function](#01-print-function)
+2. [Variables](#02-variables)
+3. [Multiple Assignment](#03-multiple-assignment)
+4. [String Methods](#04-string-methods)
+5. [Type Casting](#05-type-cast)
+6. [User Input](#06-user-input)
+7. [Math Functions](#07-math-functions)
+8. [String Slicing](#08-string-slicing)
+9. [If Statements](#09-if-statements)
+10. [Logical Operators](#10-logical-operators)
+11. [While Loops](#11-while-loops)
+12. [For Loops](#12-for-loops)
+13. [Nested Loops](#13-nested-loops)
+14. [Loop Control Statements](#14-loop-control-statements)
+15. [Lists](#15-lists)
+16. [2D Lists](#16-2d-lists)
+17. [Tuples](#17-tuples)
+18. [Sets](#18-sets)
+19. [Dictionaries](#19-dictionaries)
+20. [Indexing](#20-indexing)
+21. [Functions](#21-functions)
+22. [Return Statement](#22-return-statement)
+23. [Keyword Arguments](#23-keyword-arguments)
+24. [Nested Function Calls](#24-nested-function-calls)
+25. [Variable Scope](#25-variable-scope)
+26. [*args](#26-args)
+27. [**kwargs](#27-kwargs)
+28. [String Format](#28-string-format)
+29. [Random Numbers](#29-random-numbers)
+30. [Exception Handling](#30-exception-handling)
+31. [File Detection](#31-file-detection)
+32. [Reading a File](#32-reading-a-file)
+33. [Writing a File](#33-writing-a-file)
+34. [Copying a File](#34-copying-a-file)
+35. [Moving a File](#35-moving-a-file)
+36. [Deleting a File](#36-deleting-a-file)
+37. [Modules](#37-modules)
+
+</details>
+
+---
+
 ## 01. print function 
 ```python
 print("hello world")
